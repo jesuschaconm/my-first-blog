@@ -1,5 +1,5 @@
-from django.contrib import admin
-from .models import Post, Persona
+#from django.contrib import admin
+#from .models import Post, Persona
 
-admin.site.register(Post)
-admin.site.register(Persona)
+#admin.site.register(Post)
+#admin.site.register(Persona)
